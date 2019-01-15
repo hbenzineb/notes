@@ -9,3 +9,6 @@ Some notes for me
 - `--executor-memory` = `amount of memory per executor`
                       = `mem-per-node/num-executors-per-node`
                       = 64GB/16 = 4GB
+                      
+# Link to hive driver for DBeaver vs HDP2.2 
+https://github.com/timveil/hive-jdbc-uber-jar/releases/tag/v1.0-2.2.4.2
