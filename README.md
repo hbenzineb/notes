@@ -12,3 +12,8 @@ Some notes for me
                       
 # Link to hive driver for DBeaver vs HDP2.2 
 https://github.com/timveil/hive-jdbc-uber-jar/releases/tag/v1.0-2.2.4.2
+
+# Compile and run Hbase Java code :
+
+- javac -cp `hbase classpath` TestHBase.java 
+- java -cp `hbase classpath` TestHBase
